@@ -2,3 +2,5 @@
 This is a image for using the latest version of pm2 with node 6.2
 
 [![](https://images.microbadger.com/badges/image/heucles/node-pm2.svg)](https://microbadger.com/images/heucles/node-pm2 "Get your own image badge on microbadger.com")
+
+[![](https://images.microbadger.com/badges/version/heucles/node-pm2.svg)](https://microbadger.com/images/heucles/node-pm2 "Get your own version badge on microbadger.com")
